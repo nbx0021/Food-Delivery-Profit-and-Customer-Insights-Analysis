@@ -87,26 +87,3 @@ Feel free to open an issue or submit a pull request with improvements! All contr
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
----
-
-### **Steps to Add Images:**
-1. **Upload your images to the repository**:
-   - Place all your relevant images (plots, charts, screenshots) in a folder (e.g., `images/`).
-   - In the `README.md`, use the syntax:
-     ```markdown
-     ![Alt text](path/to/image.png)
-     ```
-
-2. **Use relative paths**:
-   - If you upload the images to a subfolder within your repository, use relative paths:
-     ```markdown
-     ![Customer Segmentation](images/customer_segmentation.png)
-     ```
-
-3. **Visualize badges for an enhanced look**:
-   - Consider adding badges for technologies used, license, or GitHub actions. For example:
-     ```markdown
-     ![Python](https://img.shields.io/badge/Python-3.8-blue)
-     ![License](https://img.shields.io/badge/license-MIT-green)
-     ```
