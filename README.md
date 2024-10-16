@@ -75,7 +75,7 @@ Visualizes relationships between different variables in the dataset.
 ### Profit Distribution by Discount Type
 This box plot highlights the profit margins across different discount categories.
 
-![Profit Distribution by Discount Type](path/to/your/boxplot_image.png)
+![profit margin](https://github.com/user-attachments/assets/d1e6459a-e917-4614-a1a6-2c0152b322d0)
 
 ---
 
